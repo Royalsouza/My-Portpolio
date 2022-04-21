@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1280px) {
+    *{
+      /* background-color: rgb(211, 219, 221); */
+      margin-left: 3px;
+    }
+    
+.devPic{
+    display: none;
+}
+ .blogContainer{
+    margin:80px  10px;
+}
+.devPic img{
+    font-size: 16px;
+    height: 30vh;
+    margin-top: 75px;
+}
+
+.devInfo{
+   font-size: 10px;
+}
+
+.hello{
+font-size: 3em;
+margin-top: 30px;
+}
+.name{
+    font-size: 4em;
+    font-weight: bold;
+}
+.about{
+    font-size: 1.5em;
+}
+.moreabout{
+    font-size: 2.2em;
+    margin-top: 15px;
+    width: 25%;
+}
+.intro, .blogContainer{
+    margin-top: 25px;
+}
+.blogContainer h1{
+    margin-top: 50px;
+}
+.intro p{
+   width:25%;
+}
+
+.buttons{
+    margin-top: 25px;}
+
+    .contactform{
+        padding: 50px 10px;
+    }
+
+    .btn{
+        width:50%;
+        padding: 5px;
+    }
+    .buttons button{
+        margin: 10px 15px;
+    }
+
+  }
